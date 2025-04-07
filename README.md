@@ -1,6 +1,4 @@
-Here’s a clean and professional `README.md` for your GitHub project based on your `package.json` and stack:
 
----
 
 ```markdown
 # 🛒 E-Commerce Project
